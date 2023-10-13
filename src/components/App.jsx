@@ -1,6 +1,4 @@
-import { Profile } from "./Profile/Profile";
-
-export const App = () => {
+export const App = ({children}) => {
   return (
     <div
       style={{
@@ -12,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework templategggg
+      {children}
     </div>
   );
 };

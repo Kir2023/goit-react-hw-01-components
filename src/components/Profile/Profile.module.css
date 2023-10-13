@@ -1,0 +1,16 @@
+.profile {
+  background: #a0a0a0;
+}
+.description {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  column-gap: 16px;
+  align-items: center;
+}
+.avatar {
+  display: flex;
+  max-width: 30%;
+  border-radius: 50%;
+  padding-top: 24px;
+}
