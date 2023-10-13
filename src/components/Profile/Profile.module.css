@@ -1,11 +1,11 @@
 .profile {
-  background: #a0a0a0;
+  background: #3d35af;
   max-width: 40%;
   display: flex;
   flex-direction: column;
   align-items: center;
   border-radius: 15px;
-  margin-top: 4%;
+  margin-top: 1850px;
 }
 .description {
   background-color: whitesmoke;
